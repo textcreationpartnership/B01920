@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the petitioners for making the river Dun more navigable, in the west rideing of the county of York.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01920</idno>
+            <idno type="STC">Wing C1135</idno>
+            <idno type="STC">ESTC R171019</idno>
+            <idno type="EEBO-CITATION">52211963</idno>
+            <idno type="OCLC">ocm 52211963</idno>
+            <idno type="VID">175532</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175532)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2739:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the petitioners for making the river Dun more navigable, in the west rideing of the county of York.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Half-title on p. [2] identical to main title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>River engineering --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Inland water transportation --  Early works to 1800.</term>
+               <term>Don River (England) --  Navigation --  Law and legislation --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <div type="body_of_petition">
+               <pb facs="tcp:175532:1" rendition="simple:additions"/>
+               <head>
+                  <hi>THE CASE OF THE</hi> Petitioners of making the River <hi>Dun</hi> more Navigable, in the Weſt Rideing of the County of <hi>YORK.</hi>
+               </head>
+               <p>THAT Three large Market Towns are Situated upon the River of <hi>Dun</hi> in the ſaid Rideing, <hi>viz. Sheiffeild, Rotheram</hi> and <hi>Doncaſter;</hi> where diverſe conſiderable Tradeſmen do Live, whoſe Goods, Wares and Mer<g ref="char:EOLhyphen"/>chandizes, are Brought up and Carried down the ſaid River too and from <hi>Hull.</hi> But the ſaid River <hi>Dun</hi> not being Navigable, at all times in the Year, further then <hi>Fiſh</hi>-Lake, which is Seaven Miles below the ſaid Town of <hi>Doncaſter;</hi> the ſaid Goods, Wares and Merchandizes, are brought up by Land-Carriage to the Towns above-mentioned, which very much Inhaunces the Prices of the ſaid Goods and Merchandizes.</p>
+               <p>That great Quantities of Cheeſe are brought out of <hi>Cheſhire</hi> and <hi>Lancaſhire,</hi> by the Way of the ſaid Town of <hi>Doncaster;</hi> being the readieſt and moſt eaſie Why for Conveying the ſame down for <hi>Hull,</hi> to be ſent from thence to the City of <hi>London.</hi>
+               </p>
+               <p>That great Quantities alſo of all Sort of Grain and Corn, and particularly Wheat, is bought by the Corn-Merchants of the City of <hi>London,</hi> in and about the Town of <hi>Doncaster</hi> and other Places thereto adjacent in the ſaid Rideing; both for the Uſe of the City of <hi>London</hi> and for Exportation beyond the Seas, it having a great Repu<g ref="char:EOLhyphen"/>tation there. So that making the ſaid River <hi>Dun</hi> more Navigable, the ſame will tend to a Publick, good Benefit and Advantage of Trade and Commerce, by afford<g ref="char:EOLhyphen"/>ing a more eaſie and cheaper Conveyance of Corn and other Commodities too and from <hi>Doncaster,</hi> and Places adjacent.</p>
+               <p>That the Banks of the ſaid River <hi>Dun,</hi> between the Town of <hi>Doncaster</hi> and the Place where the loweſt Lock is deſign'd to be made upon the ſaid River, is about Eight or Nine Foot high; whereas Three Foot of Water deeper then the ſame Runs now, which will not be above Five Foot in all, will make the ſaid River more Na<g ref="char:EOLhyphen"/>vigable; and is as much as is deſign'd by the Bill depending in this Honorable Houſe.</p>
+               <p>That the Dreins or Revolets running into the River of <hi>Dun,</hi> fall into the ſaid River much below the Place, where the loweſt Work for ſtopping the Water is deſign'd to be made, ſave two; which two have been Surveyed by ſeveral skil<g ref="char:EOLhyphen"/>ful Artiſts, who find the ſaid Dreins will have a conſiderable Fall into the ſaid Ri<g ref="char:EOLhyphen"/>ver when the Water is held up the Heigth it is deſign'd.</p>
+               <p>That the ſaid two Dreins Run through the Pariſh of <hi>Bently cum Arkſey;</hi> and are found to do no Damage to that Pariſh or any other Place.</p>
+               <p>That ſince the ſaid Dreins have been Surveyed, the Lord, Freeholders and Te<g ref="char:EOLhyphen"/>nants of the ſaid Pariſh, have Preſented a Petition, deſiring the Bill brought ino this Honourable Houſe may Paſs into a Law.</p>
+               <p>The Petitioners leaves this to Your ſerious Conſideration, and Hum<g ref="char:EOLhyphen"/>bly Deſire Your Hohnours will be Pleaſed to Vote the ſaid Bill may Paſs.</p>
+            </div>
+            <div type="note">
+               <p>Note, <hi>The chief Oppoſition to this Bill, proceeds from a Gentleman who is Intereſted in ſome Wharfs upon the River at</hi> Bawtreys, <hi>about</hi> 6 <hi>Miles from</hi> Doncaſter; <hi>as whoſe Inſtance many of the Petiti<g ref="char:EOLhyphen"/>ons againſt the Bill have been procured: And is apprehenſive, That in Caſe this River be made Navi<g ref="char:EOLhyphen"/>gable, the Traders and Inhabitants of the Country adjacent thereto, will have a more Eaſie and Cheap Coneyance for their Goods then they have at preſent by the River at <hi>Bawtrey:</hi> And that the Yearly Income of his Wharfs will be leſſened thereby.</hi>
+               </p>
+               <p>
+                  <hi>And therefore the Caſe is only, Whether this Gentleman's Private Intereſt, or the Publick Good of a Popu<g ref="char:EOLhyphen"/>lous, Induſtrious and Trading-Countrey, ſhall have the Preferrence.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:175532:2" rendition="simple:additions"/>
+            <p>THE CASE OF THE PETITIONERS FOR Making the River <hi>Dun</hi> more Navigable.</p>
+            <pb facs="tcp:175532:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
